@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**thealnbrand/thealnbrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ALL IN
+### [ ALN ]
 
-Here are some ideas to get you started:
+**All Lines. All Ideas. Now.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Independent Creative Technology Studio*
+
+---
+
+</div>
+
+### Overview
+ALL IN is an independent creative technology studio building software, digital products, and physical goods from ideas worth bringing to life.
+
+---
+
+### Core Pillars
+- **Engineering & Systems:** Full-stack web applications, SaaS platforms, and digital infrastructure.
+- **Digital Products:** Specialized interactive tools, digital assets, and utilities.
+- **Physical Goods:** Curated apparel, physical objects, and limited capsule drops.
+
+---
+
+### Identity
+- **Mark:** `[ ALN ]`
+- **Palette:** Deep Pine (`#243528`) · Brushed Titanium (`#E5E7EB`) · Polished Gold (`#D4AF37`)
+
+---
+
+<div align="center">
+
+📫 **Inquiries & Collaborations:** thealnbrand@gmail.com
+
+</div>
