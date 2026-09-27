@@ -1,72 +1,52 @@
 <div align="center">
 
-█████  ██      ██      ██ ███    ██
-██   ██ ██      ██      ██ ████   ██
-███████ ██      ██      ██ ██ ██  ██
-██   ██ ██      ██      ██ ██  ██ ██
-██   ██ ███████ ███████ ██ ██   ████
+# `[ ALN ]`
 
+### **ALL IN**
+#### *All Lines. All Ideas. Now.*
 
-### `[ ALN ]` · ARCHIVE & LABS
-**All Lines. All Ideas. Now.**
+<p align="center">
+  <b>Independent Creative Technology Studio</b><br/>
+  <i>Bridging Software Systems, Digital Tools, and Physical Goods.</i>
+</p>
 
-*An independent creative technology studio operating at the intersection of engineering, digital utility, and physical goods.*
+<!-- Color Badges Bar -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CANVAS-DEEP%20PINE%20%23243528-243528?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ACCENT-TITANIUM%20%23E5E7EB-E5E7EB?style=flat-square&logoColor=243528&labelColor=243528" />
+  <img src="https://img.shields.io/badge/GOLD-POLISHED%20%23D4AF37-D4AF37?style=flat-square&logoColor=black&labelColor=1B291F" />
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/STUDIO-ALL%20IN-243528?style=for-the-badge&logoColor=D4AF37&labelColor=1B291F" alt="Studio ALL IN" />
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-243528?style=for-the-badge&logoColor=E5E7EB&labelColor=1B291F" alt="Status Operational" />
-<img src="https://img.shields.io/badge/DISCIPLINE-MULTI--PILLAR-243528?style=for-the-badge&logoColor=D4AF37&labelColor=1B291F" alt="Discipline Multi-Pillar" />
+<p align="center">
+  <img src="https://img.shields.io/badge/FOUNDRY-TANGIER-1B291F?style=for-the-badge&logo=codeforces&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-MODERN%20WEB-243528?style=for-the-badge&logo=react&logoColor=E5E7EB" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-059669?style=for-the-badge&logo=statuspage&logoColor=white" />
+</p>
 
 ---
 
 </div>
 
-### 01 / THE MANIFESTO
-> ALL IN is built on execution without fragmentation. We architect and ship software architectures, proprietary web applications, digital product systems, and tactile physical goods under a single technical standard. 
-
-Every release—whether compiled in code or produced in fabric—is treated as a deliberate deployment.
+### ✦ Manifesto
+> **ALL IN** is an independent studio built to ship high-utility software platforms, digital assets, and physical streetwear under a single unified identity. Every product released under `[ ALN ]` is crafted with precision, clean architecture, and aesthetic intention.
 
 ---
 
-### 02 / SECTORS OF OPERATION
+### ✦ Core Pillars
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h4>SYSTEMS & SOFTWARE</h4>
-      <p>Full-stack web applications, multi-tenant architectures, interactive platforms, and custom software infrastructure.</p>
-    </td>
-    <td width="33%" align="center">
-      <h4>DIGITAL PRODUCTS</h4>
-      <p>Purpose-built developer utilities, interactive web tools, digital assets, and production-ready toolkits.</p>
-    </td>
-    <td width="33%" align="center">
-      <h4>PHYSICAL PILLARS</h4>
-      <p>Engineered streetwear, limited apparel drops, and industrial physical objects designed under the <code>[ ALN ]</code> mark.</p>
-    </td>
-  </tr>
-</table>
+| 01. Software & Engineering | 02. Digital Tools | 03. Physical Goods |
+| :--- | :--- | :--- |
+| • High-performance web applications<br/>• Full-stack systems & APIs<br/>• Cloud infrastructure & SaaS | • Developer kits & utilities<br/>• Design assets & UI systems<br/>• Interactive web tools | • Limited apparel & capsule drops<br/>• Minimalist streetwear cuts<br/>• Custom `[ ALN ]` physical goods |
 
 ---
 
-### 03 / SYSTEM DESIGN TOKENS
-
-identity:
-  label: "ALL IN"
-  mark: "[ ALN ]"
-  motto: "All Lines. All Ideas. Now."
-chroma:
-  canvas:    "#243528"   # Deep Pine
-  recessed:  "#1B291F"   # Shadow Pine
-  structure: "#E5E7EB"   # Brushed Titanium
-  accent:    "#D4AF37"   # Polished Gold
+### ✦ Studio Color Matrix
+```diff
++ [Canvas]    #243528  -  Deep Forest Pine
+! [Accent]    #D4AF37  -  Polished Gold
+# [Structure] #E5E7EB  -  Brushed Titanium
+- [Surface]   #1B291F  -  Shadow Ground
   
-04 / DISPATCH & CONTACT
-For proprietary partnerships, engineering inquiries, and direct drops:
-
-🌐 Studio Portal: Staging Deployment in Progress
-
-📬 Direct Inquiries: thealnbrand@gmail.com
-
-⚡ Dispatch: Tangier, Morocco
+### ✦ Direct Channel
+📬 Contact & Inquiries: thealnbrand@gmail.com
+© ALL IN Studio. Built with focus.
